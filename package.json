@@ -47,6 +47,9 @@
     "tslint-react": "4.2.0",
     "typescript": "3.8.3"
   },
+  "dependencies": {
+    "mem": ">=4.0.0"
+  },
   "files": [
     "android",
     "ios",
