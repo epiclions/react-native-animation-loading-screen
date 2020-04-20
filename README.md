@@ -9,7 +9,13 @@
 [![typings included](https://img.shields.io/badge/typings-included-brightgreen.svg?t=1495378566925)](package.json)
 [![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/react-native-animation-loading-screen)
 
-An animation for loading screen in React Native apps
+An animation for loading screen in React Native apps. 
+
+# THIS PACKAGE IS NOT WORKING NOW. 
+# THIS PACKAGE IS NOT WORKING NOW. 
+# THIS PACKAGE IS NOT WORKING NOW. 
+# THIS PACKAGE IS NOT WORKING NOW. 
+
 
 ## Status
 
